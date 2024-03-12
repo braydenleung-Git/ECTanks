@@ -49,4 +49,4 @@ crashlytics-build.properties
 
 #Extra ignore files
 .DS_Store
-./UserSettings
+UserSettings/
