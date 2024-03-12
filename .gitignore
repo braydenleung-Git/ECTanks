@@ -4,6 +4,7 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
+[Uu]serSettings/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # [Aa]ssets/AssetStoreTools*
@@ -49,4 +50,3 @@ crashlytics-build.properties
 
 #Extra ignore files
 .DS_Store
-UserSettings/
