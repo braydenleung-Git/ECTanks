@@ -1,0 +1,78 @@
+fileFormatVersion: 2
+guid: d51b979dfc4d74794bd723fd3a1fb2cd
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: a57477913897c46af95d590f580878bd, type: 3}
+  svgType: 0
+  texturedSpriteMeshType: 0
+  svgPixelsPerUnit: 100
+  gradientResolution: 64
+  alignment: 10
+  customPivot: {x: 0, y: 0}
+  generatePhysicsShape: 0
+  viewportOptions: 1
+  preserveViewport: 0
+  advancedMode: 0
+  predefinedResolutionIndex: 1
+  targetResolution: 1080
+  resolutionMultiplier: 1
+  stepDistance: 10
+  samplingStepDistance: 100
+  maxCordDeviationEnabled: 0
+  maxCordDeviation: 1
+  maxTangentAngleEnabled: 0
+  maxTangentAngle: 5
+  keepTextureAspectRatio: 1
+  textureSize: 256
+  textureWidth: 256
+  textureHeight: 256
+  wrapMode: 0
+  filterMode: 1
+  sampleCount: 4
+  preserveSVGImageAspect: 0
+  useSVGPixelsPerUnit: 0
+  spriteData:
+    TessellationDetail: 0
+    SpriteRect:
+      name: Tank_BarrelSprite
+      originalName: 
+      pivot: {x: -0, y: 1}
+      alignment: 9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      spriteID: 83442470e7db145c59f1db64d971bba2
+    PhysicsOutlines:
+    - Vertices:
+      - {x: -16.84665, y: -4.9330254}
+      - {x: -18.697317, y: -5.3453026}
+      - {x: -20.792213, y: -4.929962}
+      - {x: -22.547113, y: -3.6946335}
+      - {x: -23.665987, y: -2.0183296}
+      - {x: -23.967113, y: 0.10097504}
+      - {x: -23.719137, y: 1.8280296}
+      - {x: -22.587112, y: 3.6765022}
+      - {x: -20.785585, y: 4.890625}
+      - {x: -18.697323, y: 5.3258324}
+      - {x: -16.992184, y: 5.013237}
+      - {x: -15.347523, y: 4.1751633}
+      - {x: -14.203617, y: 2.8708572}
+      - {x: -13.607517, y: 1.4446373}
+      - {x: 21.378479, y: 1.4569817}
+      - {x: 21.373413, y: 2.4187737}
+      - {x: 23.984299, y: 2.4002228}
+      - {x: 24.009834, y: -3.0247269}
+      - {x: 21.341331, y: -3.0294876}
+      - {x: 21.347145, y: -2.070984}
+      - {x: -13.827518, y: -2.0995293}
+      - {x: -14.56752, y: -3.2577553}
+      - {x: -15.427521, y: -4.2159767}
